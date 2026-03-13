@@ -12,7 +12,7 @@ AKShare 主要是用于财经研究，解决在财经研究中数据获取的问
 
 ## 名称标注
 
-- 东方财富：简称东财
+- 东方财富: 简称东财
 
 ## 快速开始
 
@@ -1434,7 +1434,7 @@ stock_zh_a_hist(symbol="000001", period="monthly", start_date="20250101", end_da
 2. **商业风险**: 投资有风险，决策需谨慎
 3. **更新频率**: 实时数据可能有延迟
 4. **数据验证**: 你应该多数据源交叉验证，单一数据源的数据并不可信。
-5. **时效性**：仔细校验时间，不能有一秒差错。错误的数据带来错误的时间，导致错误的决策。
+5. **时效性**: 仔细校验时间，不能有一秒差错。错误的数据带来错误的时间，导致错误的决策。
 
 ## 问题定位
 
@@ -1444,6 +1444,6 @@ stock_zh_a_hist(symbol="000001", period="monthly", start_date="20250101", end_da
 
 - AKShare 文档: https://akshare.akfamily.xyz/
 - AkShare GitHub: https://github.com/akfamily/akshare
-- AKShare 安装指导：https://akshare.akfamily.xyz/installation.html
-- AKShare 版本更新（接口更新一览表）：https://akshare.akfamily.xyz/changelog.html
-- AKShare 快速入门（数据接口一览表）：https://akshare.akfamily.xyz/tutorial.html
+- AKShare 安装指导: https://akshare.akfamily.xyz/installation.html
+- AKShare 版本更新（接口更新一览表）: https://akshare.akfamily.xyz/changelog.html
+- AKShare 快速入门（数据接口一览表）: https://akshare.akfamily.xyz/tutorial.html
