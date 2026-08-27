@@ -38,17 +38,19 @@ Once installed, just ask your AI agent:
 
 The agent will use the AKShare skill to fetch the right data.
 
-## Categories
+## Structure
 
-- Stocks (A-share, HK, US, Taiwan)
-- Futures (CFFEX, CZCE, DCE, GFEX, INE, SGX)
-- Options (50ETF, 300ETF, commodity)
-- Funds (open-end, closed-end, ETF, LOF, money market)
-- Bonds (treasury, corporate, convertible, US treasury)
-- Forex (CNY pairs)
-- Indices (domestic, global)
-- Crypto
-- Macro economy (GDP, CPI, PMI)
+```
+akshare-skill/
+├── skills/
+│   └── akshare/
+│       ├── SKILL.md          # Frontmatter + common APIs + usage
+│       └── references/
+│           └── api-list.md   # 100+ interfaces grouped by category
+├── skills.sh.json           # Category metadata
+├── README.md
+└── LICENSE
+```
 
 ## License
 
