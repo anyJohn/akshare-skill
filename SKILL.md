@@ -128,7 +128,7 @@ AKShare 有数百个接口，涵盖：
 - 加密货币
 - 宏观经济（GDP/CPI/PMI/社融等）
 
-完整接口列表参见 [AKShare 数据接口一览表](https://akshare.akfamily.xyz/tutorial.html)。
+完整接口列表参见 [references/api-list.md](references/api-list.md) 或 [AKShare 数据接口一览表](https://akshare.akfamily.xyz/tutorial.html)。
 
 ## 注意事项
 
