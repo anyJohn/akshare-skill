@@ -13,11 +13,11 @@ AKShare is a Python library for fetching financial data from Chinese financial w
 ### As a Claude Code / Agent Skill
 
 ```bash
-# Clone into your skills directory
-git clone https://github.com/anyJohn/akshare-skill.git ~/.claude/skills/akshare
+# Install via skills.sh CLI
+npx skills add anyJohn/akshare-skill
 
-# Or install via skills.sh CLI
-npx skills install anyJohn/akshare-skill
+# Or clone manually
+git clone https://github.com/anyJohn/akshare-skill.git ~/.claude/skills/akshare
 ```
 
 ### Dependencies
@@ -53,3 +53,5 @@ The agent will use the AKShare skill to fetch the right data.
 ## License
 
 MIT
+
+[![skills.sh](https://skills.sh/b/anyJohn/akshare-skill)](https://skills.sh/anyJohn/akshare-skill)
