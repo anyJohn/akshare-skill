@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+🚀 **1,800+ downloads on ClawHub!** Thanks for the support.
+
 A [skills.sh](https://skills.sh) compatible skill for getting Chinese financial data via [AKShare](https://github.com/akfamily/akshare).
 
 ## What is AKShare?
