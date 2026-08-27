@@ -1,8 +1,8 @@
 # AKShare Skill
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![ClawHub Downloads](https://img.shields.io/badge/downloads-1.8k-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNOCAwTDAgOGw4IDggOC04TDggMHoiLz48L3N2Zz4=)](https://clawhub.com/skills/@anyjohn/akshare-zh)
-[![Security Audit](https://img.shields.io/badge/security-Pass-green)](https://clawhub.com/skills/@anyjohn/akshare-zh)
+[![ClawHub Downloads](https://img.shields.io/badge/downloads-1.8k-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNOCAwTDAgOGw4IDggOC04TDggMHoiLz48L3N2Zz4=)](https://clawhub.ai/anyjohn/skills/akshare-zh)
+[![Security Audit](https://img.shields.io/badge/security-Pass-green)](https://clawhub.ai/anyjohn/skills/akshare-zh)
 
 🚀 **1,800+ downloads on ClawHub!** Thanks for the support.
 
